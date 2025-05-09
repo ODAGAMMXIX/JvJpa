@@ -1,3 +1,4 @@
+//@JoinColumn using @OneToOne
 @Entity
 public class Pessoa {
     @Id
